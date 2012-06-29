@@ -1,9 +1,9 @@
 INFORMATION
 ===========
 
-The arduino boards are a nice introduction to microcontrollers as it simplifies the basics by doing the hardwork in various libraries. So whats the next step in the microcontroller education?
+The arduino boards are a nice introduction to microcontrollers as it simplifies the basics by doing the hardwork in various libraries. So whats the next step after arduino ?
 
-For me that would be to move to writing code which is compiled directly using avr-gcc without any arduino libraries. Essentially going a bit more low lever (but not too much).
+For me that would be to move to writing code which is compiled directly using avr-gcc without any arduino libraries. Essentially going a bit more low level (but not too much).
 
 Unfortunately each dev board out there has it's own atmel microcontroller with it's own pinouts, etc. Also most tutorials you will find on the internet is probably for a different devboard to the definitions don't match or those functions aren't available. This can be very frustrating for newbie.
 
