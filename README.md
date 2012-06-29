@@ -13,8 +13,8 @@ This repo contains various example programs that you can use for reference on do
 
 Current Examples:
 
-examples/helloworld - Toggles some LED's
-example/uart - Configure and use the serial port
+* examples/helloworld - Toggles some LED's
+* example/uart - Configure and use the serial port
 
 
 More coming soon!
