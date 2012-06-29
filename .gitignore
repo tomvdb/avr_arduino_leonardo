@@ -1,12 +1,8 @@
-# Compiled Object files
-*.slo
-*.lo
+*.o.d
+*.eep
+*.elf
+*.lss
+*.lst
+*.map
+*.sym
 *.o
-
-# Compiled Dynamic libraries
-*.so
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
